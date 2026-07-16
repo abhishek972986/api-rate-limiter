@@ -83,7 +83,7 @@ Rate Limiter as a Service allows developers to:
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/rate-limiter-as-a-service.git
+git clone https://github.com/abhishek972986/api-rate-limiter.git
 ```
 
 Move into the project directory
